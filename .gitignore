@@ -1,0 +1,9 @@
+# Node
+node_modules
+
+# Parcel
+.parcel-cache
+dist
+
+# Git
+..gitignore.swp
